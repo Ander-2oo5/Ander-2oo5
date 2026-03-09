@@ -1,4 +1,4 @@
-# 👋 Hola, soy Andersson Flores Ruiz
+# 👋 Hola, soy Ander Flores
 
 💻 Estudiante de Ingeniería de Sistemas | Desarrollador Web | Soporte Técnico
 
@@ -34,57 +34,20 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me gusta crear
 
 # 🚀 Proyectos Destacados
 
-## 🌐 Servitec
+### 🌐 Servitec
+Sitio web para presentar servicios tecnológicos y soluciones digitales.  
+🔗 https://www.servitec.app
 
-Desarrollé **Servitec**, un sitio web orientado a presentar servicios tecnológicos y soluciones digitales.  
-Incluye información sobre servicios, contacto y presencia web profesional.
+### 💊 Sistema Web de Farmacia
+Sistema de gestión de farmacia con inventario, ventas, clientes y panel administrativo.  
+**Tecnologías:** Spring Boot, Angular y MySQL.
 
-🔗 Web: https://www.servitec.app
+### 🏢 Sistema Web Inmobiliario
+Marketplace web para publicación y gestión de propiedades.  
+**Tecnologías:** React, JavaScript y base de datos relacional.
 
----
-
-## 💊 Sistema Web de Farmacia
-
-Sistema completo para la gestión de una farmacia que incluye:
-
-* Gestión de productos
-* Control de inventario
-* Registro de ventas
-* Gestión de clientes
-* Panel administrativo
-* Reportes de ventas
-
-Tecnologías usadas:  
-Java, Spring Boot, Angular y MySQL.
-
----
-
-## 🏢 Sistema Web Inmobiliario
-
-Marketplace web para la gestión y publicación de propiedades inmobiliarias.
-
-Funciones principales:
-
-* Registro de casas, terrenos y departamentos
-* Búsqueda de propiedades
-* Panel administrativo
-* Gestión de usuarios
-
-Tecnologías usadas:  
-React, JavaScript y bases de datos relacionales.
-
----
-
-## ⚔️ Inka Warrior
-
-Proyecto web interactivo inspirado en la temática de guerreros incas.
-
-Incluye:
-
-* Interfaz dinámica
-* Diseño visual temático
-* Uso de JavaScript para interacción
-* Práctica de desarrollo frontend
+### ⚔️ Inka Warrior
+Proyecto web interactivo con temática de guerreros incas desarrollado como práctica frontend.
 
 ---
 
